@@ -20,4 +20,5 @@ For this project, we used aggregated data containing counts of deaths and person
 | cntry      | Country (AUS=Australia, DK=Denmark, NL=Netherlands, SCT=Scotland)                            |
 | ses_rrank  | Mid-point of the reversed socioeconomic rank                                                 |
 
-
+# Syntax files
+For this project, we calculated Age-Standardised Mortality Rates and used a Poisson model to estimate the Slope Index of Inequality (SII), Relative Index of Inequality (RII), and changes in the SII and RII over time. The R-code we have used to conduct these analyses can be found on this page. 
